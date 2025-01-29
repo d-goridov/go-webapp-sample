@@ -14,7 +14,7 @@ require (
 	github.com/leodido/go-urn v1.2.4 // indirect
 	github.com/mailru/easyjson v0.7.7 // indirect
 	github.com/mattn/go-isatty v0.0.19 // indirect
-	github.com/mattn/go-sqlite3 v1.14.17 // indirect
+	github.com/mattn/go-sqlite3 v1.14.22 // indirect
 	github.com/moznion/go-optional v0.11.0
 	github.com/stretchr/testify v1.8.4
 	github.com/swaggo/echo-swagger v1.4.1
@@ -32,8 +32,8 @@ require (
 	gopkg.in/yaml.v3 v3.0.1
 	gorm.io/driver/mysql v1.5.1
 	gorm.io/driver/postgres v1.5.2
-	gorm.io/driver/sqlite v1.5.3
-	gorm.io/gorm v1.25.4
+	gorm.io/driver/sqlite v1.5.7
+	gorm.io/gorm v1.25.7-0.20240204074919-46816ad31dde
 )
 
 require (
